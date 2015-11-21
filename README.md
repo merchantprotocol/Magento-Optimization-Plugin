@@ -2,10 +2,8 @@
 
 
 
-time differences
+Performance Gain on Category Page
 --------------------------------
-
-profiles done via [tideways.io](https://tideways.io)
 
 #### time difference on category page
 
